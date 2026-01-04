@@ -16,6 +16,7 @@ I'm actually not really using Github anymore outside of situations where a compa
 __Other Links__
 
 * [LinkedIn](https://www.linkedin.com/in/sortofsleepy/)
+* [A profile page](https://lnnks.co/30da) where I go into greater detail about skills, interests and some past work history.
 * I've started to slowly move some repos to a personal server; you can find that [here](https://lnnks.co/lxiwu)
 * If you happen to be a recruiter and/or not technically minded, please visit [here](https://lnnks.co/ls09) - here you'll find a breakdown of most of my Gitlab repositories and what languages, if any, are being used. 
 
